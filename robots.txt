@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://polyfans-web.polyfansok-6d1.workers.dev/sitemap.xml
